@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Projet">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/persistance.jar!/" />
+      <root url="jar://$PROJECT_DIR$/mediatek2022.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
